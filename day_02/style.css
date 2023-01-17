@@ -1,0 +1,59 @@
+/*  Universal Selecor */
+
+/*  {
+    background-color: aqua;
+}
+ */
+/* Element Selector */
+/* h2 {
+    color: #13005A;
+} */
+/* Class Selector */
+.pizza {
+    background-color: rgb(19, 165, 201);
+}
+
+.pizza {
+    background-color: rgb(201, 125, 19);
+}
+/* #firstSection {
+    background-color: #13005A;
+} */
+
+ /*  Id Selector */
+ #p1 {
+    font-size: large;
+    font-weight: 900;
+ }
+
+a {
+    text-decoration: underline dotted 5px red;
+}
+/* Adjacent selector */
+ul li {
+    background-color: brown;
+}
+
+h2+ p {
+    color: blue;
+}
+
+/* Attribute Selector */
+input[type="text"] {
+    border: red solid 3px;
+}
+input[type = "password"]{
+    border: blue solid 5px;
+}
+button {
+    background-color: rgb(44, 138, 23);
+}
+
+p:hover {
+    background-color: purple;
+    color: beige;
+}
+
+h2::first-letter {
+    color: rgb(179, 29, 151);
+}

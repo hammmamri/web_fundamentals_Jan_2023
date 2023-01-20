@@ -1,0 +1,17 @@
+.row {
+    display: flex;
+    border: 1px solid cornflowerblue;
+    margin: 2px;
+}
+.col {
+    flex: 1;
+    border: 1px solid;
+}
+.col-2 {
+    flex: 2;
+    border: 1px solid color:red;
+}
+.col-3 {
+    flex: 3;
+    border:1px solid
+}

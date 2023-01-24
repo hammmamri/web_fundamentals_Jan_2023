@@ -1,0 +1,93 @@
+h1 {
+    font-family: cursive;
+
+}
+
+#navbar {
+    background-color: rgb(204, 204, 204);
+    width: 1000px;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    border: 4px solid black;
+    align-items: center;
+    margin-left: 230px;
+}
+
+#in {
+    width: 300px;
+    height: 27px;
+    border: 3px solid black;
+}
+
+#login {
+    background-color: rgb(43, 120, 228);
+    border: 2px solid black;
+    height: 27px;
+    width: 100px;
+    box-shadow: 3px 3px black;
+    color: white;
+}
+
+.topleft {
+    width: 700px;
+    height: 280px;
+    border: 4px solid black;
+    margin-top: 50px;
+    margin-left: 230px;
+    display: flex;
+}
+
+.buttomleft {
+    width: 700px;
+    height: 280px;
+    border: 4px solid black;
+    margin-top: 20px;
+    margin-left: 230px;
+    display: flex;
+
+}
+
+.topleftt button {
+    background-color: rgb(255, 217, 102);
+    border: 2px solid black;
+    width: 90px;
+    height: 40px;
+    box-shadow: 2px 2px black;
+    font-weight: 700;
+}
+
+.topleftt {
+    margin-left: 35px;
+}
+.text-topleft  {
+    margin-top: 90px;
+    margin-left: 100px;
+    font-family: cursive;
+}
+.text-buttomleft {
+    margin-top: 90px;
+    margin-left: 100px;
+    font-family: cursive;
+}
+.right {
+  height: 130px;
+  width: 210px;
+  border: 4px solid black;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+#main {
+    display: flex;
+}
+.right-button {
+    
+    height: 35px;
+    margin-bottom: 15px; 
+    margin-left: 40px;   
+    background-color: rgb(147,196,125);
+    border: 3px solid black;
+    box-shadow: 2px 2px;
+    font-weight: 700;
+}
+
